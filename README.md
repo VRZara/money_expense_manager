@@ -48,10 +48,7 @@ also contribute to a more sustainable future.
 - *Set Date
 - Click "Add" button
 
-
 ........................................................................................................................................................................................
-
-
 
 ** **EXAMPLE OF MONEYGER APP****
  Download and install the application
