@@ -17,12 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 **Overview**
 
-In today's fast-paced world, managing personal finances efficiently for maintaining financial
-health and achieving long-term goals. Introducing the Expenses Tracker Mobile Application, an
-innovative solution designed to empower individuals with comprehensive tools for tracking
-income, managing expenses, and optimizing budgetary decisions. This platform offers a seamless
-user experience, allowing users to effortlessly log daily expenditures, categorize
-transactions, and set personalized budget goals.
+In today's fast-paced world, keeping track of your finances can be a real challenge. That's where where the Expenses Tracker Mobile Application comes in. This app is designed to make managing your money easy and stress-free. It helps you log your daily expenses, categorize where your money is going, and set up budget goals that fit your needs. With simple charts and graphs, you can quickly see your spending patterns and make smarter financial choices. Plus, your data is secure and accessible from any device, so you can check your finances anytime, anywhere. Whether you're saving up for something special or just trying to get a better handle on your spending, the Expenses Tracker is here to help you stay on top of your budget goals.
 
 SUSTAINABLE DEVELOPMENT GOAL 12 : Responsible Consumption and Production
 
