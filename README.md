@@ -34,9 +34,7 @@ smarter and more sustainable consumption. It highlights spending patterns that m
 encouraging more eco-friendly choices. By using the app, you not only improve your financial health but 
 also contribute to a more sustainable future.
 
-
 .........................................................................................................................................................................................
-
 
 **MONEYGER APP**
 -  Download and install the application
