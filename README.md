@@ -35,6 +35,7 @@ encouraging more eco-friendly choices. By using the app, you not only improve yo
 also contribute to a more sustainable future.
 
 **MONEYGER APP**
+-  Download and install the application
 -  Enter your name
 -  Add transaction:
 - *Amount
