@@ -36,6 +36,7 @@ also contribute to a more sustainable future.
 
 .........................................................................................................................................................................................
 
+
 **MONEYGER APP**
 -  Download and install the application
 -  Enter your name
@@ -47,6 +48,7 @@ also contribute to a more sustainable future.
 - Click "Add" button
 
 ........................................................................................................................................................................................
+
 
 ** **EXAMPLE OF MONEYGER APP****
  Download and install the application
