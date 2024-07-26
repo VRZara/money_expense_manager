@@ -28,10 +28,11 @@ spending, the Expenses Tracker is here to help you stay on top of your budget go
 
 SUSTAINABLE DEVELOPMENT GOAL 12 : Responsible Consumption and Production
 
-Using a personal expense manager or tracker supports SDG 12, "Responsible Consumption and
-Production," by helping people become aware of their spending habits and reduce waste. These
-tools encourage smarter, eco-friendly spending and budgeting. By managing finances well, people
-can make choices that lead to a more sustainable and responsible lifestyle.
+The Expenses Tracker supports Sustainable Development Goal (SDG) 12 by helping users manage their 
+spending more effectively. The app enables users to identify and cut unnecessary expenses, promoting 
+smarter and more sustainable consumption. It highlights spending patterns that may harm the environment, 
+encouraging more eco-friendly choices. By using the app, you not only improve your financial health but 
+also contribute to a more sustainable future.
 
 **MONEYGER APP**
 -  Enter your name
