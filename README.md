@@ -33,21 +33,31 @@ spending more effectively. The app enables users to identify and cut unnecessary
 smarter and more sustainable consumption. It highlights spending patterns that may harm the environment, 
 encouraging more eco-friendly choices. By using the app, you not only improve your financial health but 
 also contribute to a more sustainable future.
-
+.........................................................................................................................................................................................
 **MONEYGER APP**
 -  Download and install the application
 -  Enter your name
 -  Add transaction:
 - *Amount
 - *Transaction Name
-- *Choose either EXPENSE or INCOME
+- *Choose either EXPENSES or INCOME
 - *Set Date
 - Click "Add" button
-
-HOMEPAGE
+........................................................................................................................................................................................
+** **EXAMPLE OF MONEYGER APP****
+ Download and install the application
+-  Enter your name -** **EVERSON****
+-  Add transaction:** **CLICK ADD!****
+- *Amount :**2000**
+- *Transaction Name : **GROCERIES**
+- *Choose either EXPENSES or INCOME :** **EXPENSES****
+- *Set Date :**** JULY 26, 2024****
+- Click "Add" button : **OK!**
+.......................................................................................................................................................................................
+**HOMEPAGE**
 Here you can see the total balance, your recent transaction and the total expense or income separately.
 
-DELETE TRANSACTION
+**DELETE TRANSACTION**
 Press the transaction you want to remove, then click yes.
 
 In "SETTINGS"
